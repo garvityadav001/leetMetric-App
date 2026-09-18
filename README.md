@@ -40,3 +40,8 @@ node server.js
 - Contest rating
 - Submission history
 - Dark mode
+
+
+## Screenshots
+
+![LeetMetric Dashboard](screenshot.png)
